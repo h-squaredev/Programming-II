@@ -21,4 +21,4 @@ Materiais e trabalhos da disciplina **Programacao-II** (Ciência da Computação
 - revisao_parte2
 - revisao_prova2
 
-> Repositório organizado automaticamente em 25/10/2026. Edite este README para descrever o que cada pasta contém.
+> Repositório organizado automaticamente em 25/10/2026.
