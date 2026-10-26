@@ -1,24 +1,15 @@
-# Programacao-II
+# Programação II (UFMT)
 
-Materiais e trabalhos da disciplina **Programacao-II** (Ciência da Computação, UFMT).
+Orientação a objetos em C++.
 
-## Conteúdo
+## Para ver primeiro
+- **Trabalho_JogoDaVelha/**: Jogo da Velha com POO, bots, ranking e salvar partida. Tem README e relatório em PDF.
 
-- ManipulacaoArquivos
-- ManipulacaoArquivos.zip
-- Trabalho_JogoDaVelha
-- Trabalho_JogoDaVelha.zip
-- aula1_prog2
-- aula2_prog2
-- aula3_prog2
-- aula4
-- aula5
-- aula6
-- aula7
-- funcao_Amiga
-- lista10
-- miniProjeto
-- revisao_parte2
-- revisao_prova2
-
-> Repositório organizado automaticamente em 25/10/2026.
+## Pastas
+- **aula1_prog2 a aula7**: exercícios das aulas (classes, ponteiros inteligentes, herança, polimorfismo).
+- **aula3_prog2/**: exemplos de shared_ptr, weak_ptr e erros de memória.
+- **aula5/**: sistemas de cadastro (escola, veículos, reserva de sala).
+- **ManipulacaoArquivos/**: biblioteca simples (livros e membros) com arquivos.
+- **lista10/**: classe Vetor2D.
+- **funcao_Amiga/**: função amiga (friend).
+- **revisao_prova2/**: revisão de herança e polimorfismo, com um exemplo de RPG.
