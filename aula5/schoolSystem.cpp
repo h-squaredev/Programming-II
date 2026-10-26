@@ -73,7 +73,7 @@ int main(){
     aluno aluno1;
     aluno1.nome = "Humberto Henrique Castro Rocha";
     aluno1.idade = 20;
-    aluno1.matricula = 202512722003;
+    aluno1.matricula = 123456789;
     aluno1.mediaFinal = "4,8"; 
 
     disciplina disciplina1;
